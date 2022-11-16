@@ -8,4 +8,7 @@ improvement web dengan robotika
 - Arduino
 - C++
 - Raspberry
+- java
+- Belajar AI
+- App developments
 
