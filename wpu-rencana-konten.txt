@@ -8,3 +8,4 @@ improvement web dengan robotika
 - Raspberry
 - java
 - Belajar AI
+- App developments
