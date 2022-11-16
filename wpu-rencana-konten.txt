@@ -1,5 +1,7 @@
 membuat website
 freelancer
+- Web dan data analyst
+- Data Scientist
 kerja menadi web development
 kolaborasi
 improvement web dengan robotika
@@ -9,3 +11,4 @@ improvement web dengan robotika
 - java
 - Belajar AI
 - App developments
+
