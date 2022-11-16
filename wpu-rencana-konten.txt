@@ -7,3 +7,4 @@ improvement web dengan robotika
 - C++
 - Raspberry
 - java
+- Belajar AI
